@@ -1,0 +1,3 @@
+environment: staging
+replicas: 2
+debug: false
